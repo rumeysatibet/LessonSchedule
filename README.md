@@ -16,13 +16,10 @@
 - **Veritabanı**: Entity Framework Core ile SQL Server
 - **Araçlar**: Visual Studio, GitHub sürüm kontrolü için
 
-## 📸 Ekran Görüntüleri
-
 ### 📋 Öğretmen Müsaitlik Formu
-![Teacher Availability Form](./screenshots/teacher_form.png)
+![Teacher Availability Form](https://github.com/user-attachments/assets/d217f8b8-e22b-4904-ab06-9335ea95e07f)
 
-### 🗓️ Ders Programı Görüntüleme
-![Schedule Display](./screenshots/schedule_display.png)
+
 
 ## 🚀 Başlarken
 
